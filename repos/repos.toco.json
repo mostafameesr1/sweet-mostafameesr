@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "VantomKernel",
-      "repo": "https://github.com/devnoname120/kernel_xiaomi_sm6150",
+      "repo": "https://github.com/zelodev/kernel_xiaomi_sm6150",
       "branch": "fifteen",
-      "device": "toco",
-      "defconfig": "toco_defconfig"
+      "device": "sweet",
+      "defconfig": "sweet_defconfig"
     },
     "withKernelSU": true,
     "withSUSFS": true,
@@ -42,7 +42,7 @@
       "use": true,
       "release": true,
       "repo": "https://github.com/mostafameesr1/AnyKernel3",
-      "branch": "toco"
+      "branch": "sweet"
     }
   }
 ]
